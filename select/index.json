@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "So what",
+  "base_artist": "FAKE TYPE.",
+  "createdAt": "2026-03-25T18:48:40.541915Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "So What?",
+      "artist": "Die Antwoord",
+      "has_synced": false,
+      "path": "select/01_So_What_Die_Antwoord.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "So What",
+      "artist": "Bladee feat. Ecco2k",
+      "has_synced": true,
+      "path": "select/02_So_What_Bladee_feat._Ecco2k.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "So What (feat. Ecco2K)",
+      "artist": "Bladee",
+      "has_synced": true,
+      "path": "select/03_So_What_(feat._Ecco2K)_Bladee.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Hey ! (So What)",
+      "artist": "Dannii Minogue",
+      "has_synced": true,
+      "path": "select/04_Hey_!_(So_What)_Dannii_Minogue.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Hey! (So What)",
+      "artist": "Dannii Minogue",
+      "has_synced": true,
+      "path": "select/05_Hey!_(So_What)_Dannii_Minogue.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "So What!",
+      "artist": "Jane's Addiction",
+      "has_synced": true,
+      "path": "select/06_So_What!_Jane's_Addiction.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "So What",
+      "artist": "The Cure",
+      "has_synced": true,
+      "path": "select/07_So_What_The_Cure.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "So What (feat. Popcaan)",
+      "artist": "dvsn",
+      "has_synced": true,
+      "path": "select/08_So_What_(feat._Popcaan)_dvsn.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "So What?",
+      "artist": "Bonfire",
+      "has_synced": false,
+      "path": "select/09_So_What_Bonfire.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Said so What",
+      "artist": "French Kicks",
+      "has_synced": false,
+      "path": "select/10_Said_so_What_French_Kicks.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "So What?",
+      "artist": "Far East Movement",
+      "has_synced": true,
+      "path": "select/11_So_What_Far_East_Movement.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "So What",
+      "artist": "Metallica",
+      "has_synced": false,
+      "path": "select/12_So_What_Metallica.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "So What",
+      "artist": "Metallica",
+      "has_synced": true,
+      "path": "select/13_So_What_Metallica.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "So what",
+      "artist": "FAKE TYPE.",
+      "has_synced": false,
+      "path": "select/pl_01_So_what_FAKE_TYPE..txt"
+    }
+  ]
+}
